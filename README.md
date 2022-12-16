@@ -53,4 +53,13 @@ If someone is uncomfortable, reaching out to them. Part of the stand-up ask "Is 
 
 ## Use Git Projects for PM
 
+# Git Process
 
+## Git Cards
+Cards can become the branch where we work on different features. Commit and do a pull request then review and merge. Use the title of the card to title the branch.
+
+
+
+
+Google Docs
+https://docs.google.com/presentation/d/114sW2a5F7vYEA61JJrQ6Jnh-U6sWTeosl2ZxzrgVo7E/edit#slide=id.g2accd1c413_3_31
